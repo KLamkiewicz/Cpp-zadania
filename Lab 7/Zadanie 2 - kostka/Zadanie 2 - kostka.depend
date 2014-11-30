@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1416863860 source:c:\users\admin\desktop\zaawansowane\lab 7\zadanie 2 - kostka\main.cpp
+	<iostream>
+	<kostka.h>
+	<sekwr.h>
+
+1416869604 c:\users\admin\desktop\zaawansowane\lab 7\zadanie 2 - kostka\include\kostka.h
+
+1416859481 c:\users\admin\desktop\zaawansowane\lab 7\zadanie 2 - kostka\include\sekwr.h
+

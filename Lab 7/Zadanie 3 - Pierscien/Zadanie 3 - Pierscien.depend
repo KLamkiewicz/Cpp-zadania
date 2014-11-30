@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1417382922 source:c:\users\admin\desktop\zaawansowane\lab 7\zadanie 3 - pierscien\main.cpp
+	<iostream>
+	"Zp.h"
+
+1417383148 c:\users\admin\desktop\zaawansowane\lab 7\zadanie 3 - pierscien\zp.h
+	<stdlib.h>
+
