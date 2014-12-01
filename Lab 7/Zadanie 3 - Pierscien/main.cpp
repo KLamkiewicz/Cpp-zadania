@@ -11,13 +11,13 @@ int main()
     Zp z(14);
 
     obj.dodaj(z, 4);
-    std::cout << z.wynik << std::endl;
+    std::cout << obj.wynik << std::endl;
     obj.odejmij(z, 11);
-    std::cout << z.wynik << std::endl;
+    std::cout << obj.wynik << std::endl;
     obj.pomnoz(z, 5);
-    std::cout << z.wynik << std::endl;
+    std::cout << obj.wynik << std::endl;
     obj.podziel(z, 7);
-    std::cout << z.wynik << std::endl;
+    std::cout << obj.wynik << std::endl;
 
     /*
     Zp *g;
