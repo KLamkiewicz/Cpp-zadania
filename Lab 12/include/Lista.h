@@ -40,6 +40,9 @@ T2& Lista<T1, T2>::addElement(T1 t1){
     Node *t = root;
 
     while(t!=NULL){
+        if(t->key == t1){
+            return t->value;
+        }
         if(t->next==NULL){
             t->next = newNode;
             return t->next->value;
