@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1421588466 source:/home/krzysiek/Projects/CPP Projects/AsocTable/main.cpp
+	<iostream>
+	<string>
+	"TablicaAsoc.h"
+	<cstddef>
+
+1421585009 /home/krzysiek/Projects/CPP Projects/AsocTable/include/TablicaAsoc.h
+	<iostream>
+	"Lista.h"
+
+1421585042 /home/krzysiek/Projects/CPP Projects/AsocTable/include/Lista.h
+	<cstddef>
+	<iostream>
+
+1421578003 source:/home/krzysiek/Projects/CPP Projects/AsocTable/src/Lista.cpp
+	"Lista.h"
+
+1421577975 source:/home/krzysiek/Projects/CPP Projects/AsocTable/src/TablicaAsoc.cpp
+	"TablicaAsoc.h"
+
+1421584060 /home/krzysiek/Projects/CPP Projects/AsocTable/include/NodeC.h
+	<iostream>
+
